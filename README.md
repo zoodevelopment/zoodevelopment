@@ -1,6 +1,6 @@
 Somos Zoo Development
 
-una empresa de software que busca optimizar el trabajo de
+Una empresa que busca optimizar el trabajo de
 otras empresas y organizaciones por medio de soluciones
 digitales, software y aplicaciones.
 
